@@ -10,7 +10,7 @@
 
 ## About me
 
-- ⭐ **|Engineer for a Sustainable Future|**⭐
+- ⭐ **Engineer for a Sustainable Future**⭐
 - 🌐 Chemical & Industrial Engineer | IoT, Controllers, and Data Whiz
 - 🚀 **Passionate about Sustainable Tech:** Crafting code to reduce our footprint, without sacrificing daily life.
 - 📲 **Explore My World:** [GitHub](https://github.com/DEFITOSO)
