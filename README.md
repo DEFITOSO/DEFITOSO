@@ -33,4 +33,6 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="java-4.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DEFITOSO&show_icons=true&locale=en" alt="DEFITOSO" /></p>
 
+<p>
