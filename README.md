@@ -30,9 +30,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/es-es/sql-server" target="_blank" rel="noreferrer"> <img src="microsoft-sql-server-1.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="logo-javascript.svg" alt="java" width="40" height="40"/> </a> 
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="java-4.svgg" alt="java" width="40" height="40"/> </a> 
-
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="java-4.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
 
